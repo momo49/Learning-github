@@ -1,0 +1,1 @@
+this is a basic read me file before opening the calculator 
